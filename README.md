@@ -1,6 +1,6 @@
 # Revo CR Cooler
 
-Cooler for Ender 3 with Revo CR hotend, for stock Ender 3/Pro, plus alternate parts for Ender 3/Pro with the Creality X-axis linear rail upgrade.
+A cooler for Ender 3 with Revo CR hotend, for stock Ender 3/Pro, plus alternate parts for Ender 3/Pro with the Creality X-axis linear rail upgrade.
 
 STEP files and an f3d file are provided for customization.
 
